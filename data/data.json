@@ -1,0 +1,25 @@
+[
+  {"provinsi":"SulawesiUtara","tahun":2023,"serapan":108079.90,"konsumsi":622.09},
+  {"provinsi":"SulawesiUtara","tahun":2024,"serapan":110692.04,"konsumsi":639.33},
+  {"provinsi":"SulawesiUtara","tahun":2025,"serapan":126887,"konsumsi":705.53},
+
+  {"provinsi":"Gorontalo","tahun":2023,"serapan":43997.09,"konsumsi":214.1},
+  {"provinsi":"Gorontalo","tahun":2024,"serapan":44149.45,"konsumsi":214.59},
+  {"provinsi":"Gorontalo","tahun":2025,"serapan":49.403,"konsumsi":237.88},
+
+  {"provinsi":"SulawesiTengah","tahun":2023,"serapan":112037.31,"konsumsi":479.15},
+  {"provinsi":"SulawesiTengah","tahun":2024,"serapan":124070.38,"konsumsi":508.2},
+  {"provinsi":"SulawesiTengah","tahun":2025,"serapan":124609,"konsumsi":506.05},
+
+  {"provinsi":"SulawesiBarat","tahun":2023,"serapan":46724.36,"konsumsi":189.27},
+  {"provinsi":"SulawesiBarat","tahun":2024,"serapan":50977.44,"konsumsi":206.52},
+  {"provinsi":"SulawesiBarat","tahun":2025,"serapan":53.2,"konsumsi":211.7},
+
+  {"provinsi":"SulawesiSelatan","tahun":2023,"serapan":335817.58,"konsumsi":901.16},
+  {"provinsi":"SulawesiSelatan","tahun":2024,"serapan":344729.03,"konsumsi":930.68},
+  {"provinsi":"SulawesiSelatan","tahun":2025,"serapan":339224,"konsumsi":905.99},
+
+  {"provinsi":"SulawesiTenggara","tahun":2023,"serapan":118942.67,"konsumsi":712.03},
+  {"provinsi":"SulawesiTenggara","tahun":2024,"serapan":123741.89,"konsumsi":672.71},
+  {"provinsi":"SulawesiTenggara","tahun":2025,"serapan":125667,"konsumsi":741.88}
+]
